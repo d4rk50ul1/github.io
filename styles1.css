@@ -82,3 +82,8 @@ button[type=submit]:hover {
 }
 
 
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
